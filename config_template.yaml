@@ -1,0 +1,5 @@
+Directories:
+  Source: p:\pictures
+FaceApi:
+  Key: c6facd59b5a343e48b97b50630359160
+  Endpoint: https://faceap.cognitiveservices.azure.com/face/v1.0

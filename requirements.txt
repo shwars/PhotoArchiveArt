@@ -1,0 +1,5 @@
+azure-cognitiveservices-vision-face
+dlib
+numpy
+Pillow
+opencv-python

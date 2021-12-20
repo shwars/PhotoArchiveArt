@@ -1,3 +1,10 @@
+config.yaml
+people.map
+db/
+out/
+cache.pkl
+.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
